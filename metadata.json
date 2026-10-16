@@ -1,0 +1,6 @@
+{
+  "name": "WebWatch — Website Change Detector",
+  "description": "Monitor public web pages, detect meaningful visual and text changes, filter noise, inspect DOM regions, and receive real alerts with version history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

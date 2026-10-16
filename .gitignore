@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+storage/screenshots/*.png
+storage/db.json
+dist-server/
+*.local
+.env*
+!.env.example
